@@ -30,7 +30,7 @@ item:
   organization: freeCodeCamp
   organization_url: https://www.freecodecamp.org/
   title: Data Analysis with Python
-  url: ""
+  url: https://www.freecodecamp.org/
 - certificate_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
   date_end: ""
   date_start: "2021-01-31"
@@ -45,8 +45,8 @@ item:
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com/
-  title: 'Data Scientist with Python'
-  url: ""
+  title: Data Scientist with Python
+  url: https://www.datacamp.com/
 
 design:
   columns: '2' 
