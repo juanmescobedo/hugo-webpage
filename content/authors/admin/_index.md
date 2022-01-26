@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Juan Martín Escobedo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Data Analyst
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Stori
+  url: https://www.storicard.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Data Analyst based in Mexico City.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Analytics
+- Data Engineering
+- Computer Science
+- Education
+- Sociology
+- Political Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Political Science and International Relations
+    institution: CIDE
+    year: 2021
+  - course: Technical Degree in IT
+    institution: CECyT 18 - IPN
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,16 +45,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/jescobedo1605
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/juanmescobedo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/juan-martin-escobedo-alvarado-328a89140/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -64,14 +61,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "juan.escobedo@alumnos.cide.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Political scientist with demonstrated experience in academia and NGOs. Skilled in text mining, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am interested in applying data science to solve specific problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
