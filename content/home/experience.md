@@ -25,7 +25,7 @@ experience:
   - title: Data Analyst Jr
     company: Stori Bank
     company_url: 'http://www.storicard.com'
-    company_logo: org-x
+    company_logo: stori-ico
     location: Mexico City
     date_start: '2021-06-16'
     date_end: ''
@@ -45,7 +45,7 @@ experience:
   - title: Data Analyst
     company: Sumando Hacemos Más
     company_url: 'http://www.sumando.mx/'
-    company_logo: org-x
+    company_logo: sumando
     location: Mexico City
     date_start: '2021-01-04'
     date_end: '2021-06-30'
@@ -70,7 +70,7 @@ experience:
   - title: Data Science Intern
     company: Mexico's National Laboratory of Public Policy 
     company_url: 'https://www.lnpp.mx/'
-    company_logo: org-x
+    company_logo: lnpp
     location: Mexico City
     date_start: '2020-08-15'
     date_end: '2021-05-31'
