@@ -45,7 +45,7 @@ experience:
   - title: Data Analyst
     company: Sumando Hacemos Más
     company_url: 'http://www.sumando.mx/'
-    company_logo: sumando
+    company_logo: org-x
     location: Mexico City
     date_start: '2021-01-04'
     date_end: '2021-06-30'
