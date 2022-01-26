@@ -34,13 +34,13 @@ experience:
         
         * Analysing
         * Deploying
-        * Documenting
+        * Designing
 
         Tools include:
         * Python 
         * SQL
-        * Quicksight
-        * AWS (S3, EC2, lambda)
+        * dbt
+        * AWS (Quicksight, S3, EC2, lambda)
         
   - title: Data Analyst
     company: Sumando Hacemos Más
