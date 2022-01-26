@@ -44,7 +44,7 @@ item:
   date_start: "2022-01-31"
   description: ""
   organization: DataCamp
-  organization_url: [https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5 ](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+  organization_url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
   title: 'Data Scientist with Python'
   url: ""
 
