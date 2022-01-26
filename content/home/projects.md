@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Data Analytics
-    tag: DA
+    tag: Data Analytics
   - name: Social Sciences
     tag: Demo
   - name: Coffee Shops

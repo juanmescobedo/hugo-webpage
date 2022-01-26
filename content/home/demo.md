@@ -54,6 +54,6 @@ subtitle = ""
 
 Hi, I'm Juan Martín, a Data Analyst from Mexico. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
 
-- 👉 As a political science graduate, I enjoy learning more about the social sciences. Feel free to check out my [**articles reading list**](https://wowchemy.com/docs/install/)
+- 👉 As a political science graduate, I enjoy learning more about the social sciences. Feel free to check out my [**articles reading list**](https://wowchemy.com/docs/)
 - 📚 I have always enjoyed literature. I spend my free times reading, so make sure to see my [**book list**](https://wowchemy.com/docs/)
 - 🥐 I like to work from coffee shops around the places I visit. Here you can find my [**cafe reviews**](https://discourse.gohugo.io)

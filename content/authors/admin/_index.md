@@ -71,4 +71,4 @@ Political scientist with demonstrated experience in academia and NGOs. Skilled i
 
 I am interested in applying data science to solve specific problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

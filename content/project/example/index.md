@@ -2,7 +2,7 @@
 title: DA
 summary: This is a project on Data Analytics
 tags:
-- Deep Learning
+- Data Analytics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
