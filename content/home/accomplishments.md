@@ -23,28 +23,28 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
   date_end: ""
   date_start: "2022-01-31"
   description: ""
   organization: freeCodeCamp
-  organization_url: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
+  organization_url: https://www.freecodecamp.org/
   title: Data Analysis with Python
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
   date_end: ""
   date_start: "2021-01-31"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
+  description:
   organization: edX
   organization_url: https://www.edx.org
   title: CS50x
-  url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
-- certificate_url: https://www.datacamp.com
+  url: https://www.edx.org/
+- certificate_url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
   date_end: ""
   date_start: "2022-01-31"
   description: ""
   organization: DataCamp
-  organization_url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
+  organization_url: https://www.datacamp.com/
   title: 'Data Scientist with Python'
   url: ""
 

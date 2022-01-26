@@ -29,9 +29,17 @@ feature:
   icon_pack: fas
   name: SQL
 - description: 1-year
+  icon: git
+  icon_pack: fab
+  name: git
+- description: 1-year
   icon: aws
   icon_pack: fab
   name: Amazon Web Services
+- description: 1-year
+  icon: docker
+  icon_pack: fab
+  name: Docker
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
