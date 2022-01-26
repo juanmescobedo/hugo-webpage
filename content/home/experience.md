@@ -50,8 +50,8 @@ experience:
     date_start: '2021-01-04'
     date_end: '2021-06-30'
     description: |2-
-        * I cleaned three major datasets on philantropy in Mexico setting the data foundations of the company
-        * I created an analytical environment within the company for non-technical to can retrieve information and make data visualizations easily
+        * I set the data foundations of the company cleaning three major datasets on philantropy in Mexico 
+        * I developed an analytical environment for non-technical users to retrieve information and make data visualizations easily
         * I performed frequent analysis for decision-making and business-to-business meetings
 
   - title: Research Intern
