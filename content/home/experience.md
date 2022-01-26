@@ -25,7 +25,7 @@ experience:
   - title: Data Analyst Jr
     company: Stori Bank
     company_url: 'http://www.storicard.com'
-    company_logo: stori-ico
+    company_logo: stori_ico
     location: Mexico City
     date_start: '2021-06-16'
     date_end: ''
