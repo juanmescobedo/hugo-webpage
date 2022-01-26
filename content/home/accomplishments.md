@@ -28,25 +28,25 @@ item:
   date_start: "2022-01-31"
   description: ""
   organization: freeCodeCamp
-  organization_url: https://www.freecodecamp.org/
+  organization_url: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
   title: Data Analysis with Python
-  url: https://www.freecodecamp.org/
+  url: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
 - certificate_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
   date_end: ""
   date_start: "2021-01-31"
   description:
   organization: edX
-  organization_url: https://www.edx.org
-  title: CS50x
-  url: https://www.edx.org/
+  organization_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
+  title: CS50's Introduction to Computer Science
+  url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
 - certificate_url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
   date_end: ""
   date_start: "2022-01-31"
   description: ""
   organization: DataCamp
-  organization_url: https://www.datacamp.com/
+  organization_url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
   title: Data Scientist with Python
-  url: https://www.datacamp.com/
+  url: https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5
 
 design:
   columns: '2' 
