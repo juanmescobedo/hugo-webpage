@@ -48,7 +48,7 @@ experience:
     company_logo: org-x
     location: Mexico City
     date_start: '2021-01-04'
-    date_end: '2021-06-31'
+    date_end: '2021-06-30'
     description: |2-
         * I cleaned three major datasets on philantropy in Mexico setting the data foundations of the company
         * I created an analytical environment within the company for non-technical to can retrieve information and make data visualizations easily
