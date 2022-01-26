@@ -27,7 +27,7 @@ experience:
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City
-    date_start: '2021-06-16'
+    date_start: '2021-07-16'
     date_end: ''
     description: |2-
         Responsibilities include:
