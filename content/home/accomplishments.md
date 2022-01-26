@@ -15,7 +15,7 @@ subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -33,7 +33,7 @@ item:
   url: https://www.freecodecamp.org/learn/data-analysis-with-python/ 
 - certificate_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
   date_end: ""
-  date_start: "2021-01-31"
+  date_start: "2022-01-31"
   description:
   organization: edX
   organization_url: https://www.edx.org/course/introduction-computer-science-harvardx-cs50x
