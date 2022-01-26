@@ -57,7 +57,7 @@ experience:
   - title: Research Intern
     company: Innovations for Poverty Action
     company_url: 'https://www.poverty-action.org/'
-    company_logo: org-x
+    company_logo: ipa
     location: Mexico City
     date_start: '2020-08-15'
     date_end: '2021-05-31'
