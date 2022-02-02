@@ -47,8 +47,8 @@ experience:
     company_url: 'http://www.sumando.mx/'
     company_logo: sumando
     location: Mexico City
-    date_start: '2021-01-04'
-    date_end: '2021-06-30'
+    date_start: '2021-05-01'
+    date_end: '2021-07-30'
     description: |2-
         * I set the data foundations of the company cleaning three major datasets on philantropy in Mexico 
         * I developed an analytical environment for non-technical users to retrieve information and make data visualizations easily
