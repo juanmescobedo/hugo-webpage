@@ -26,7 +26,7 @@ subtitle = "Data Analyst"
   
   # Background gradient.
   gradient_start = "steelblue"
-  gradient_end = "navy"
+  gradient_end = "sky"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
