@@ -24,11 +24,11 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 2-year
+- description: 2-years
   icon: database
   icon_pack: fas
   name: SQL
-- description: 2-year
+- description: 2-years
   icon: git
   icon_pack: fab
   name: git
