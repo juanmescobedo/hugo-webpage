@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: |2-
         Responsabilities include:
+        
         * Management of junior associates to improve technical and soft skills
         * End-to-end development of data products for financial and operation teams
 
@@ -42,7 +43,7 @@ experience:
         * git
         * AWS (Quicksight, S3, EC2, lambda)
 
-  - title: Data Analyst Jr
+  - title: Data Analyst Junior
     company: Stori Card
     company_url: 'http://www.storicard.com'
     company_logo: stori
