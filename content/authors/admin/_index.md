@@ -6,7 +6,7 @@ title: Juan Martín Escobedo
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst
+role: Senior Analytics Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -51,7 +51,7 @@ social:
   link: https://github.com/juanmescobedo
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/juan-martin-escobedo-alvarado-328a89140/
+  link: https://www.linkedin.com/in/juan-martin-escobedo-alvarado/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -67,8 +67,8 @@ email: "juan.escobedo@alumnos.cide.edu"
 highlight_name: true
 ---
 
-Political scientist with demonstrated experience in academia and NGOs. Skilled in text mining, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
+Senior Analytics Engineer with demonstrated experience in academia, NGOs and fintech. Skilled in data pipelines, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
 
-I am interested in applying data science to solve specific problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
+I am interested in applying data engineering to solve problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

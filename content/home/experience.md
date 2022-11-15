@@ -23,19 +23,27 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Senior Analytics Engineer
-    company: Stori Bank
+    company: Stori Card
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City
     date_start: '2022-07-16'
     date_end: ''
     description: |2-
-        Promoted due to high performance. Responsabilities include:
+        Responsabilities include:
         * Management of junior associates to improve technical and soft skills
         * End-to-end development of data products for financial and operation teams
 
+        Tech stack include:
+        * Python
+        * SQL
+        * Airflow
+        * dbt
+        * git
+        * AWS (Quicksight, S3, EC2, lambda)
+
   - title: Data Analyst Jr
-    company: Stori Bank
+    company: Stori Card
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City

@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Juan Martín Escobedo"
-subtitle = ""
+subtitle = "Senior Analytics Engineer"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,7 +25,7 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
+  gradient_start = "DarkNavy"
   gradient_end = "ForestGreen"
   
   # Background image.

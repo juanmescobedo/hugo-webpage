@@ -20,15 +20,15 @@ feature:
   icon: r-project
   icon_pack: fab
   name: R
-- description: 2-years
+- description: 3-years
   icon: python
   icon_pack: fab
   name: Python
-- description: 1-year
+- description: 2-year
   icon: database
   icon_pack: fas
   name: SQL
-- description: 1-year
+- description: 2-year
   icon: git
   icon_pack: fab
   name: git
