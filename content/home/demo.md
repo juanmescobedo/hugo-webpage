@@ -52,7 +52,7 @@ subtitle = ""
 
 ## 👋 Welcome to my personal Website
 
-Hi, I'm Juan Martín, a Data Analyst from Mexico. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
+Hi, I'm Juan Martín, a Senior Analytics Engineer from Mexico. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
 
 - 👉 As a political science graduate, I enjoy learning about the social sciences. Feel free to check out my [**articles reading list**](https://www.goodreads.com/review/list/108014396-juan-escobedo?shelf=social-sciences)
 - 📚 I have always enjoyed literature. I spend my free times reading, so make sure to see my [**Goodreads profile**](https://www.goodreads.com/user/show/108014396-juan-escobedo)

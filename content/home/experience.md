@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Analytics Engineer
+    company: Stori Bank
+    company_url: 'http://www.storicard.com'
+    company_logo: stori
+    location: Mexico City
+    date_start: '2022-07-16'
+    date_end: ''
+    description: |2-
+        Promoted due to high performance. Responsabilities include:
+        * Management of junior associates to improve technical and soft skills
+        * End-to-end development of data products for financial and operation teams
+
   - title: Data Analyst Jr
     company: Stori Bank
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City
     date_start: '2021-07-16'
-    date_end: ''
+    date_end: '2022-07-16'
     description: |2-
         Responsibilities include:
         
@@ -50,8 +62,8 @@ experience:
     date_start: '2021-05-01'
     date_end: '2021-07-30'
     description: |2-
-        * I set the data foundations of the company cleaning three major datasets on philantropy in Mexico 
-        * I developed an analytical environment for non-technical users to retrieve information and make data visualizations easily
+        * Set the data foundations of the company cleaning and processing major datasets on philantropy in Mexico 
+        * Developed an analytical environment for non-technical users to retrieve information and make data visualizations easily
         * I performed frequent analysis for decision-making and business-to-business meetings
 
   - title: Research Intern
@@ -62,10 +74,10 @@ experience:
     date_start: '2020-08-15'
     date_end: '2021-05-31'
     description: |2-
-        * I prepared and presented reports on public policy and development
-        * I coded and processed +200 interviews with police officers in Mexico City
-        * I applied multi-level models to predict quarterly performances on security based on INEGI's surveys
-        * I automated the creation of weekly reports and +600 data visualizations
+        * Prepared and presented reports on public policy and development
+        * Coded and processed +200 interviews with police officers in Mexico City
+        * Applied multi-level models to predict quarterly performances on security based on INEGI's surveys
+        * Automated the creation of weekly reports and +600 data visualizations
 
   - title: Data Science Intern
     company: Mexico's National Laboratory of Public Policy 
@@ -75,9 +87,9 @@ experience:
     date_start: '2020-08-15'
     date_end: '2021-05-31'
     description: |2-
-        * I led a team of three interns in a text mining project on political speeches
-        * I systematized and processed +6000 records on conferences given by the President of Mexico
-        * I delivered weekly reports to the Head of the Data Science Unit, Ph.D. Sebastián Garrido de Sierra 
+        * Led a team of three interns in a text mining project on political speeches, developing leadership and management skills.
+        * Built from scratch a large dataset on presidential conferences, developing skills in design and research.
+        * Delivered weekly reports to the Head of the Data Science Unit, Ph.D. Sebastián Garrido de Sierra 
 
 design:
   columns: '2'
