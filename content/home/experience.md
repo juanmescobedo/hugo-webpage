@@ -52,11 +52,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Deploying
-        * Designing
+        * Create dashboards for stakeholders' decision making
+        * Data support to Operations and Back Office teams
+        * Execute and monitor BAU processes 
 
-        Tools include:
+        Tech stack include:
         * Python 
         * SQL
         * dbt

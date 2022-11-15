@@ -25,7 +25,7 @@ subtitle = "Senior Analytics Engineer"
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkNavy"
+  gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
   
   # Background image.
@@ -50,10 +50,10 @@ subtitle = "Senior Analytics Engineer"
  css_class = ""
 +++
 
-## 👋 Welcome to my personal Website
+## 👋 Welcome to my website
 
 Hi, I'm Juan Martín, a Senior Analytics Engineer from Mexico. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
 
-- 👉 As a political science graduate, I enjoy learning about the social sciences. Feel free to check out my [**articles reading list**](https://www.goodreads.com/review/list/108014396-juan-escobedo?shelf=social-sciences)
-- 📚 I have always enjoyed literature. I spend my free times reading, so make sure to see my [**Goodreads profile**](https://www.goodreads.com/user/show/108014396-juan-escobedo)
+- 👉 I'm currently interested in developing my data engineering skillset. You can see my [**Data Engineering Learning Journey**](https://github.com/juanmescobedo)
+- 📚 I have always enjoyed literature. I spend my free times reading, so feel free to check out my [**Goodreads profile**](https://www.goodreads.com/user/show/108014396-juan-escobedo)
 - 🥐 I like to travel and try new things. Here you can find my [**Google Maps reviews**](https://www.google.com/maps/contrib/104787721989783059436/photos/@24.0974341,-93.5207906,3z/data=!4m3!8m2!3m1!1e1)

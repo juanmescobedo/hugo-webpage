@@ -14,7 +14,7 @@ organizations:
   url: https://www.storicard.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Data Analyst based in Mexico City.
+bio: Analytics Engineer
 
 # Interests to show in About widget
 interests:
