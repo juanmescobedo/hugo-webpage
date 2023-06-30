@@ -1,0 +1,80 @@
+library(pacman)
+p_load(readxl,
+       tidyverse)
+
+df <- read_excel("~/training.xlsx")
+
+data$target<- as.numeric(as.character(data$target))
+
+# Calculate the count of each image class
+data %>%
+  count(`image class`) %>%
+  arrange(n) %>% 
+# Create the ordered barplot
+  ggplot() +
+  geom_bar(aes(x = reorder(`image class`, -n)), fill = "#2596be")+
+  labs(title = "Image Class", y = "Count") +
+  theme_light() +
+  theme(axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        plot.title = element_text(hjust = 0.5)) +
+  coord_flip()
+
+
+
+data$variable<- as.numeric(as.character(data$variable))
+
+ggplot(data) +
+  geom_histogram(aes(variable), bins = 20, fill = "#2596be") +
+  labs(title = "variable distribution by image class") +
+  theme_light() +
+  theme(axis.title.y = element_blank(),
+        plot.title = element_text(hjust = 0.5)) +
+  facet_wrap(~`image class`, ncol = 2) +
+  scale_x_continuous(labels = function(x) format(x, scientific = FALSE))
+
+
+library(ggplot2)
+
+library(ggplot2)
+
+plot_variable_distribution <- function(df, var1) {
+  df$var1 <- as.numeric(as.character(df$var1))
+}
+
+plot_variable_distribution(df=df, var1="target")
+
+df$juu<- as.numeric(as.character(df$juu))
+
+ggplot(data) +
+  geom_histogram(aes(juu), bins = 20, fill = "#2596be") +
+  labs(title = "variable distribution by image class") +
+  theme_light() +
+  theme(axis.title.y = element_blank(),
+        plot.title = element_text(hjust = 0.5)) +
+  facet_wrap(~`image class`, ncol = 2) +
+  scale_x_continuous(labels = function(x) format(x, scientific = FALSE))
+
+library(ggplot2)
+
+plot_variable_distribution <- function(variable, varname) {
+  print(variable)
+  variable<- as.numeric(as.character(variable))
+  
+  ggplot(data) +
+    geom_histogram(aes(variable), bins = 20, fill = "#2596be") +
+    labs(title = paste0(varname, " variable distribution by image class")) +
+    theme_light() +
+    theme(axis.title.y = element_blank(),
+          plot.title = element_text(hjust = 0.5)) +
+    facet_wrap(~`image class`, ncol = 2) +
+    scale_x_continuous(labels = function(x) format(x, scientific = FALSE))
+}
+
+plot_variable_distribution(df$fyt, "fyt")
+
+foo <- function(data, var1) {
+  as.numeric(as.character(data$var1))
+}
+
+foo(df, "target")

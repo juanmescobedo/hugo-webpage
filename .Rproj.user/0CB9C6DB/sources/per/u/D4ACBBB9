@@ -1,26 +1,27 @@
 {
-    "id": "9E72B3B2",
-    "path": "~/Downloads/stori_pop_maps.R",
+    "id": "D4ACBBB9",
+    "path": null,
     "project_path": null,
     "type": "r_source",
-    "hash": "2678518028",
+    "hash": "2366880150",
     "contents": "",
     "dirty": true,
-    "created": 1666275952398.0,
+    "created": 1687162128728.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 2,
     "properties": {
+        "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "17,0",
-        "scrollLine": "20"
+        "cursorPosition": "75,0",
+        "scrollLine": "57"
     },
     "folds": "",
-    "lastKnownWriteTime": 1664549321,
-    "encoding": "UTF-8",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1664549321,
+    "last_content_update": 1687169400681,
     "read_only": false,
     "read_only_alternatives": []
 }
