@@ -27,48 +27,14 @@ experience:
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City
-    date_start: '2023-07-16'
+    date_start: '2021-07-16'
     date_end: ''
     description: |2-
-        Responsabilities include:
+        Caracterizado por mi alto desempeño e impacto, dentro de Stori he escalado la escalera corporativa de manera exitosa. Inicié como Analista de Datos Junior en julio de 2021, luego de 1 año me promovieron a Senior Analytics Engineer donde empecé a tener un equipo a mi cargo, y desde julio de 2023 ascendí a Principal Analytics Engineer.
         
-        * Management of junior associates to improve their technical and soft skills
-        * End-to-end development of data products for Financial, Operation and Growth teams
+        Estoy orgulloso de ser haber construido las Data foundations de la compañía, en donde he sido el miembro con mayor crecimiento dentro del equipo de Datos. Cuando entré a la compañía el área de Datos solo tenía 4 personas y hoy somos más de 25. Yo lidero un squad de 5 personas.
 
-        Tech stack include:
-        * Python
-        * SQL
-        * Airflow
-        * dbt
-        * git
-        * AWS (Quicksight, S3, EC2, lambda)
-  
-    - title: Senior Analytics Engineer
-      company: Stori Card
-      company_url: 'http://www.storicard.com'
-      company_logo: stori
-      location: Mexico City
-      date_start: '2022-07-16'
-      date_end: '2023-07-16'
-      description: |2-
-          Responsabilities include:
-          
-          * Management of junior associates to improve technical and soft skills
-          * End-to-end development of data products for financial and operation teams
 
-  - title: Data Analyst Junior
-    company: Stori Card
-    company_url: 'http://www.storicard.com'
-    company_logo: stori
-    location: Mexico City
-    date_start: '2021-07-16'
-    date_end: '2022-07-16'
-    description: |2-
-        Responsibilities include:
-        
-        * Create dashboards for stakeholders' decision making
-        * Data support to Operations and Back Office teams
-        * Execute and monitor BAU processes 
   
   - title: Data Analyst
     company: Sumando Hacemos Más
