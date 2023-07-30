@@ -30,9 +30,16 @@ experience:
     date_start: '2021-07-16'
     date_end: ''
     description: |2-
-        Caracterizado por mi alto desempeño e impacto, dentro de Stori he escalado la escalera corporativa de manera exitosa. Inicié como Analista de Datos Junior en julio de 2021, luego de 1 año me promovieron a Senior Analytics Engineer donde empecé a tener un equipo a mi cargo, y desde julio de 2023 ascendí a Principal Analytics Engineer.
-        
-        Estoy orgulloso de ser haber construido las Data foundations de la compañía, en donde he sido el miembro con mayor crecimiento dentro del equipo de Datos. Cuando entré a la compañía el área de Datos solo tenía 4 personas y hoy somos más de 25. Yo lidero un squad de 5 personas.
+        Caracterizado por mi alto desempeño e impacto, dentro de Stori he escalado la escalera corporativa de manera exitosa. Estoy orgulloso de ser haber construido las Data foundations de la compañía, en donde he sido el miembro con mayor crecimiento dentro del equipo de Datos. Cuando entré a la compañía el área de Datos solo tenía 4 personas y hoy somos más de 25. Yo lidero un squad de 5 personas.
+
+        * *Senior Analytics Engineer (Julio 2022 - Junio 2023*
+          * a
+          * b
+          * c
+        * *Junior Data Analyst (Julio 2021 - Junio 2022)*
+          * a
+          * b
+          * c
 
 
   

@@ -32,7 +32,7 @@ feature:
   icon: git
   icon_pack: fab
   name: git
-- description: 2-year
+- description: 2-years
   icon: aws
   icon_pack: fab
   name: Amazon Web Services
