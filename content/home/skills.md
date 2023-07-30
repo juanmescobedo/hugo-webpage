@@ -24,15 +24,15 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 2-years
+- description: 3-years
   icon: database
   icon_pack: fas
   name: SQL
-- description: 2-years
+- description: 3-years
   icon: git
   icon_pack: fab
   name: git
-- description: 1-year
+- description: 2-year
   icon: aws
   icon_pack: fab
   name: Amazon Web Services

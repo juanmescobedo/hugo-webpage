@@ -6,7 +6,7 @@ title: Juan Martín Escobedo
 superuser: true
 
 # Role/position/tagline
-role: Senior Analytics Engineer
+role: Principal Analytics Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -67,8 +67,8 @@ email: "juan.escobedo@alumnos.cide.edu"
 highlight_name: true
 ---
 
-Senior Analytics Engineer with demonstrated experience in academia, NGOs and fintech. Skilled in data pipelines, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
+Principal Analytics Engineer with demonstrated experience in academia, NGOs and fintech. Skilled in data pipelines, statistical analysis, data management, and data visualization. Strong professional with a Bachelor's degree in Political Science and International Relations from CIDE and a technical degree in Information Technology from IPN.
 
-I am interested in applying data engineering to solve problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
+I am interested in applying data analytics engineering to solve problems, whether public or business. I am constantly seeking challenges as I love to learn. Also, I know how to handle stress, so I am comfortable working under pressure. I always take care of rigor and attention to detail. Passionate about social sciences and technology, I consider myself a multidisciplinary and interesting profile.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

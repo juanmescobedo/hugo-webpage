@@ -22,18 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Senior Analytics Engineer
+  - title: Principal Analytics Engineer
     company: Stori Card
     company_url: 'http://www.storicard.com'
     company_logo: stori
     location: Mexico City
-    date_start: '2022-07-16'
+    date_start: '2023-07-16'
     date_end: ''
     description: |2-
         Responsabilities include:
         
-        * Management of junior associates to improve technical and soft skills
-        * End-to-end development of data products for financial and operation teams
+        * Management of junior associates to improve their technical and soft skills
+        * End-to-end development of data products for Financial, Operation and Growth teams
 
         Tech stack include:
         * Python
@@ -42,6 +42,19 @@ experience:
         * dbt
         * git
         * AWS (Quicksight, S3, EC2, lambda)
+  
+    - title: Senior Analytics Engineer
+      company: Stori Card
+      company_url: 'http://www.storicard.com'
+      company_logo: stori
+      location: Mexico City
+      date_start: '2022-07-16'
+      date_end: '2023-07-16'
+      description: |2-
+          Responsabilities include:
+          
+          * Management of junior associates to improve technical and soft skills
+          * End-to-end development of data products for financial and operation teams
 
   - title: Data Analyst Junior
     company: Stori Card
@@ -56,13 +69,7 @@ experience:
         * Create dashboards for stakeholders' decision making
         * Data support to Operations and Back Office teams
         * Execute and monitor BAU processes 
-
-        Tech stack include:
-        * Python 
-        * SQL
-        * dbt
-        * AWS (Quicksight, S3, EC2, lambda)
-        
+  
   - title: Data Analyst
     company: Sumando Hacemos Más
     company_url: 'http://www.sumando.mx/'
