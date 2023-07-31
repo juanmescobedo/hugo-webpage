@@ -36,14 +36,14 @@ feature:
   icon: aws
   icon_pack: fab
   name: Amazon Web Services
-- description: 1-year
-  icon: docker
-  icon_pack: fab
-  name: Docker
 - description: 2-years
   icon: dbt-svgrepo-com
   icon_pack: custom
   name: dbt
+- description: 1-year
+  icon: docker
+  icon_pack: fab
+  name: Docker
 - description: 1-year
   icon: airflow-svgrepo-com (2)
   icon_pack: custom
