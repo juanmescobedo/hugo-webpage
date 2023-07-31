@@ -40,6 +40,10 @@ feature:
   icon: docker
   icon_pack: fab
   name: Docker
+- description: 1-year
+  icon: airflow-svgrepo-com
+  icon_pack: custom
+  name: Airflow
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
