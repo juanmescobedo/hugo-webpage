@@ -40,8 +40,12 @@ feature:
   icon: docker
   icon_pack: fab
   name: Docker
+- description: 2-years
+  icon: dbt-svgrepo-com
+  icon_pack: custom
+  name: dbt
 - description: 1-year
-  icon: airflow-svgrepo-com
+  icon: apache-airflow-svgrepo-com
   icon_pack: custom
   name: Airflow
 

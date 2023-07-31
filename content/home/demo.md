@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Juan Martín Escobedo"
-subtitle = "Senior Analytics Engineer"
+subtitle = "Principal Analytics Engineer"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
