@@ -52,7 +52,7 @@ subtitle = "Senior Analytics Engineer"
 
 ## 👋 Welcome to my website
 
-Hi, I'm Juan Martín, a Senior Analytics Engineer from Mexico. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
+Hi, I'm Juan Martín, Principal Analytics Engineer at a mexican fintech unicorn. This is my personal webpage, in which you can found information about my profesional life as well as some personal projects.
 
 - 👉 I'm currently interested in developing my data engineering skillset. You can see my [**Data Engineering Learning Journey**](https://github.com/juanmescobedo)
 - 📚 I have always enjoyed literature. I spend my free times reading, so feel free to check out my [**Goodreads profile**](https://www.goodreads.com/user/show/108014396-juan-escobedo)

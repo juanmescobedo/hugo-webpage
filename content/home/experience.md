@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07-16'
     date_end: ''
     description: |2-
-        Distinguished by high performance and impact, I have successfully ascended the corporate ladder. I take pride in establishing the company's data foundations, being the partner that has experienced the most significant growth within the Data team. When I joined, the Data department had only 4 members, and now we have grown to over 25. I lead a squad of 5 individuals.
+        Distinguished by high performance and impact, I take pride in being the partner that has experienced the most significant career growth within the Data team having 2 promotions since I joind Stori. Back in the day, the Data department had only 4 members, now we have grown to over 25 and I lead a squad of 4 individuals.
 
         * **Principal Analytics Engineer (July 2023 - Present)**
           * Lead a Data team that support Product, Growth, CRM, and Business areas.
@@ -67,7 +67,7 @@ experience:
     date_start: '2020-08-15'
     date_end: '2021-05-31'
     description: |2-
-        Innovations for Poverty Action (IPA) is a think tank dedicated to public policy research and evaluation. Led by Annie Duflo, Nobel laureate in Economics, IPA collaborates closely with institutions like MIT and the World Bank. During my assignment on a specific project, I was able to:
+        Innovations for Poverty Action (IPA) is a think tank dedicated to public policy research and evaluation. Led by Annie Duflo, Nobel laureate in Economics, IPA collaborates closely with institutions like MIT and the World Bank. Within the project I was assigned to, I was able to:
 
         * Prepare and present reports on public policy and development.
         * Code and process +200 interviews with police officers in Mexico City
