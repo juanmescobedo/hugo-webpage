@@ -48,6 +48,10 @@ feature:
   icon: airflow-svgrepo-com (2)
   icon_pack: custom
   name: Airflow
+- description: 1-year
+  icon: AMPL
+  icon_pack: custom
+  name: Amplitude
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
