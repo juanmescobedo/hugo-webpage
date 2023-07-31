@@ -45,7 +45,7 @@ feature:
   icon_pack: custom
   name: dbt
 - description: 1-year
-  icon: apache-airflow-svgrepo-com
+  icon: airflow-svgrepo-com (1)
   icon_pack: custom
   name: Airflow
 
