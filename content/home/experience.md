@@ -30,7 +30,7 @@ experience:
     date_start: '2021-07-16'
     date_end: ''
     description: |2-
-        Distinguished by high performance and impact, I take pride in being the partner that has experienced the most significant career growth within the Data team having 2 promotions since I joind Stori. Back in the day, the Data department had only 4 members, now we have grown to over 25 and I lead a squad of 4 individuals.
+        Distinguished by high performance and impact, I take pride in being the partner that has experienced the most significant career growth within the Data team with 2 promotions since I joind Stori. Back in the day, the Data department had only 4 members, and it has grown to over 25 associates. Currently, I lead a squad of 4 individuals.
 
         * **Principal Analytics Engineer (July 2023 - Present)**
           * Lead a Data team that support Product, Growth, CRM, and Business areas.
@@ -82,7 +82,7 @@ experience:
     date_start: '2020-08-15'
     date_end: '2021-05-31'
     description: |2-
-        Laboratorio Nacional de Políticas Públicas (LNPP) is a nationally relevant unit specialized in data science, methods, and empirical research techniques applied to public policies. During my tenure at LNPP I:
+        Laboratorio Nacional de Políticas Públicas (LNPP) is a nationally relevant unit specialized in data science, methods, and empirical research techniques applied to public policies. During my time at LNPP I:
 
         * Led a team of three interns in a text mining project on political speeches, developing leadership and management skills.
         * Built from scratch a large dataset on presidential conferences, developing skills in design and research.
